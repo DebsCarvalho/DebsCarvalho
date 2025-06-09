@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DebsCarvalho
-- 👀 I’m interested in Gestão de projetos de TI...
-- 🌱 I’m currently learning Java e programação orientada a objetos...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DebsCarvalho/DebsCarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou Débora Carvalho, formada em Administração pela UFPE e em Gestão de TI pela Cesar School;
+- 👀 Sou apaixonada por Análise de Dados, Gestão de projetos de TI e meus sobrinhos;
+- 🌱 No momento estou me dedicando para tirar a certificação em Power BI e continuar aprimorando os meus conhecimentos em Python, SQL, Visualização de Dados com Streamlit e Cloud Computing;
+- 💞️ Estou em busca de uma colocação na área de dados, como analista, mas o meu sonho é me tornar cientista de dados;
+- 📫 Para me encontrar basta enviar um e-mail para deborabarroscarvalho@gmail.com ou mandar mensagem pelo Linkedin https://www.linkedin.com/in/deborabcarvalho90/
